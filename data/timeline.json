@@ -1,0 +1,129 @@
+[
+  {
+    "id": "1",
+    "year": "2024",
+    "dateRange": "2023 - Present",
+    "title": "SEPT: Smart & Safe Solar Panels",
+    "category": "Energy Innovation",
+    "description": "Leading the development of intelligent solar panel technology that enhances safety and efficiency. SEPT integrates advanced monitoring systems to detect anomalies, prevent fires, and optimize energy production. Our mission is to make solar energy not just sustainable, but intelligent and reliable for communities worldwide.",
+    "images": [
+      "/images/sept-1.jpg",
+      "/images/sept-2.jpg"
+    ],
+    "cta": {
+      "label": "View SEPT Work",
+      "link": "/work#sept"
+    }
+  },
+  {
+    "id": "2",
+    "year": "2023",
+    "dateRange": "2022 - Present",
+    "title": "N'Ko: Empowering West African Communities",
+    "category": "Climate Resilience",
+    "description": "Building climate resilience in West African communities through the N'Ko project. We're creating educational resources and tools in local languages to help communities understand and adapt to climate change. This initiative combines traditional knowledge with modern climate science to develop sustainable adaptation strategies that respect cultural heritage.",
+    "images": [
+      "/images/nko-1.jpg",
+      "/images/nko-2.jpg",
+      "/images/nko-3.jpg"
+    ],
+    "cta": {
+      "label": "Explore N'Ko",
+      "link": "/work#nko"
+    }
+  },
+  {
+    "id": "3",
+    "year": "2022",
+    "dateRange": "2021 - 2023",
+    "title": "Solar Thermal Cogeneration Research",
+    "category": "Sustainable Technology",
+    "description": "Pioneered research in solar thermal systems for simultaneous electricity generation and water desalination. This groundbreaking work addresses two critical challenges: energy security and water scarcity. The cogeneration approach maximizes resource efficiency, making it particularly valuable for arid regions where both electricity and fresh water are desperately needed.",
+    "images": [
+      "/images/solar-thermal-1.jpg",
+      "/images/solar-thermal-2.jpg"
+    ],
+    "cta": {
+      "label": "Read Research",
+      "link": "/work#solar-thermal"
+    }
+  },
+  {
+    "id": "4",
+    "year": "2021",
+    "dateRange": "2020 - Present",
+    "title": "Teaching AI Fundamentals",
+    "category": "Education",
+    "description": "Demystifying artificial intelligence and empowering people to build practical AI tools. Through workshops, courses, and hands-on projects, I help students and professionals understand the fundamentals of machine learning and how to apply AI to solve real-world problems. The focus is on accessibility and practical application rather than theoretical complexity.",
+    "images": [
+      "/images/ai-teaching-1.jpg",
+      "/images/ai-teaching-2.jpg"
+    ],
+    "cta": {
+      "label": "View Courses",
+      "link": "/work#ai-education"
+    }
+  },
+  {
+    "id": "5",
+    "year": "2020",
+    "dateRange": "2019 - 2021",
+    "title": "Energy Systems Engineering",
+    "category": "Academic Foundation",
+    "description": "Completed advanced studies in energy systems engineering, focusing on renewable energy integration and grid optimization. This academic foundation provided the technical expertise to tackle complex challenges in energy security and sustainable development. Research centered on making renewable energy more reliable and economically viable for developing regions.",
+    "images": [
+      "/images/energy-systems-1.jpg"
+    ],
+    "cta": {
+      "label": "View Research",
+      "link": "/about"
+    }
+  },
+  {
+    "id": "6",
+    "year": "2019",
+    "dateRange": "2018 - 2019",
+    "title": "Rural Electrification Projects",
+    "category": "Community Impact",
+    "description": "Led rural electrification initiatives bringing reliable electricity to underserved communities. These projects combined solar microgrids with community training programs, ensuring long-term sustainability. Witnessed firsthand how access to reliable energy transforms education, healthcare, and economic opportunities in rural areas.",
+    "images": [
+      "/images/rural-electrification-1.jpg",
+      "/images/rural-electrification-2.jpg"
+    ],
+    "cta": {
+      "label": "Learn More",
+      "link": "/work"
+    }
+  },
+  {
+    "id": "7",
+    "year": "2018",
+    "dateRange": "2017 - 2018",
+    "title": "Climate Data Analysis",
+    "category": "Research",
+    "description": "Analyzed climate data patterns across West Africa to understand vulnerability and inform adaptation strategies. This work revealed critical insights about regional climate trends and their impact on agriculture, water resources, and energy systems. The findings continue to inform current resilience-building initiatives.",
+    "images": [
+      "/images/climate-data-1.jpg"
+    ],
+    "cta": {
+      "label": "View Analysis",
+      "link": "/work"
+    }
+  },
+  {
+    "id": "8",
+    "year": "2017",
+    "dateRange": "2016 - 2017",
+    "title": "The Beginning: Discovering Purpose",
+    "category": "Origin Story",
+    "description": "The journey began with a simple question: How can we ensure everyone has access to clean, reliable energy? Growing up witnessing energy poverty and its impact on communities, I committed to dedicating my career to energy security and climate resilience. This marked the beginning of a mission that continues to drive everything I do today.",
+    "images": [
+      "/images/beginning-1.jpg"
+    ],
+    "cta": {
+      "label": "Read My Story",
+      "link": "/about"
+    }
+  }
+]
+
